@@ -1,4 +1,7 @@
-- 👋 Hi, I’m  a junior developer from Turkey
+## 👋 Hi,! I'm Esra
+#About Me:
+
+-  I’m  a junior developer from Turkey
 - 👀 I’m passionate about front-end development and all things HTML,CSS and JavaScript
 - 🌱 I’m currently learning JavaScript,React JS and Redux
 - 💞️ I’m looking to collaborate with other learners
